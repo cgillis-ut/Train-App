@@ -1,5 +1,10 @@
 body {
-  background: url("assets/images/rails.jpg") no-repeat center center;
-  position: fixed;
+  background: url("https://github.com/christinegillis/Train-App/blob/master/assets/images/rails.jpeg?raw=true") no-repeat center center;
   width: 100%;
+}
+
+.jumbotron, .panel > .panel-heading {
+    color: #fff;
+    text-align: center;
+    background-color: #122b33;
 }
